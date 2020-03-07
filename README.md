@@ -1398,3 +1398,19 @@ print("The ASCII value of '" + a + "' is", ord(a))
 ----------------------------------------
 </br>
 
+
+
+<ul>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Python-Tutorial/blob/master/pyk(12).pdf" style="text-decoration:none;">An empirical comparison of C, C++, Java, Perl, Python, Rexx, and Tcl</a></li>
+                            
+ <li><a target="_blank" href="https://github.com/manjunath5496/Python-Tutorial/blob/master/pyk(13).pdf" style="text-decoration:none;">Python Metaclasses: Who? Why? When?</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Python-Tutorial/blob/master/pyk(14).pdf" style="text-decoration:none;">An introduction to Python for scientific computing</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Python-Tutorial/blob/master/pyk(15).pdf" style="text-decoration:none;">A Python Book: Beginning Python, Advanced Python, and Python Exercises</a></li>  
+  <li><a target="_blank" href="https://github.com/manjunath5496/Python-Tutorial/blob/master/pyk(16).pdf" style="text-decoration:none;">Python (2.5) Virtual Machine: A guided tour</a></li>  
+ </ul>
+ </br>
+ 
+ 
+ 
+ 
