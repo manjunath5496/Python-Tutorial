@@ -159,6 +159,11 @@
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Python-Tutorial/blob/master/pyk(6).pdf" style="text-decoration:none;">The Python Language Reference</a></li>
 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Python-Tutorial/blob/master/pyk(7).pdf" style="text-decoration:none;">Using Python for CGI programming</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Python-Tutorial/blob/master/pyk(8).pdf" style="text-decoration:none;">Python/C API Reference Manual</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Python-Tutorial/blob/master/pyk(9).pdf" style="text-decoration:none;">Distributing Python Modules</a></li>
+
 </ul>
 
 
