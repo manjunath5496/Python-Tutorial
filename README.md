@@ -163,7 +163,9 @@
 <li><a target="_blank" href="https://github.com/manjunath5496/Python-Tutorial/blob/master/pyk(8).pdf" style="text-decoration:none;">Python/C API Reference Manual</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Python-Tutorial/blob/master/pyk(9).pdf" style="text-decoration:none;">Distributing Python Modules</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Python-Tutorial/blob/master/pyk(10).pdf" style="text-decoration:none;">Python (programming language)</a></li>
 
+<li><a target="_blank" href="https://github.com/manjunath5496/Python-Tutorial/blob/master/pyk(11).pdf" style="text-decoration:none;">Introduction to Python</a></li>
 </ul>
 
 
