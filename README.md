@@ -50,6 +50,29 @@
 <strong><a title="Guido van Rossum" href="https://en.wikipedia.org/wiki/Guido_van_Rossum">Guido van Rossum</a>&nbsp;at OSCON 2006</strong></div>
 </div>
 </div>
+
+
+</br>
+<h2>Publications </h2>
+<ul>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Python-Tutorial/blob/master/pyk(1).pdf" style="text-decoration:none;">Extending and embedding the python interpreter</a></li>
+                            
+ <li><a target="_blank" href="https://github.com/manjunath5496/Python-Tutorial/blob/master/pyk(2).pdf" style="text-decoration:none;">Python Tutorial</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Python-Tutorial/blob/master/pyk(3).pdf" style="text-decoration:none;">Python reference manual</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Python-Tutorial/blob/master/pyk(4).pdf" style="text-decoration:none;">Python library reference</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Python-Tutorial/blob/master/pyk(5).pdf" style="text-decoration:none;">The ABC Structure Editor: Structure-based Editing for the ABC Programming Environment</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Python-Tutorial/blob/master/pyk(6).pdf" style="text-decoration:none;">The Python Language Reference</a></li>
+
+</ul>
+
+
+</br></br>
+
+
+
+
 <div class="hatnote navigation-not-searchable">&nbsp;</div>
 <p>Python was conceived in the late 1980s&nbsp;by&nbsp;<a title="Guido van Rossum" href="https://en.wikipedia.org/wiki/Guido_van_Rossum">Guido van Rossum</a>&nbsp;at&nbsp;<a title="Centrum Wiskunde &amp; Informatica" href="https://en.wikipedia.org/wiki/Centrum_Wiskunde_%26_Informatica">Centrum Wiskunde &amp; Informatica</a>&nbsp;(CWI) in the&nbsp;<a title="Netherlands" href="https://en.wikipedia.org/wiki/Netherlands">Netherlands</a>&nbsp;as a successor to the&nbsp;<a title="ABC (programming language)" href="https://en.wikipedia.org/wiki/ABC_(programming_language)">ABC language</a>&nbsp;(itself inspired by&nbsp;<a title="SETL" href="https://en.wikipedia.org/wiki/SETL">SETL</a>), capable of&nbsp;<a title="Exception handling" href="https://en.wikipedia.org/wiki/Exception_handling">exception handling</a>&nbsp;and interfacing with the&nbsp;<a title="Amoeba (operating system)" href="https://en.wikipedia.org/wiki/Amoeba_(operating_system)">Amoeba</a>&nbsp;operating system.&nbsp;Its implementation began in December 1989.&nbsp;Van Rossum shouldered sole responsibility for the project, as the lead developer, until 12 July 2018, when he announced his "permanent vacation" from his responsibilities as Python's&nbsp;<em><a class="mw-redirect" title="Benevolent Dictator For Life" href="https://en.wikipedia.org/wiki/Benevolent_Dictator_For_Life">Benevolent Dictator For Life</a></em>, a title the Python community bestowed upon him to reflect his long-term commitment as the project's chief decision-maker.&nbsp;He now shares his leadership as a member of a five-person steering council.&nbsp;In January 2019, active Python core developers elected Brett Cannon, Nick Coghlan, Barry Warsaw, Carol Willing and Van Rossum to a five-member "Steering Council" to lead the project.</p>
 <p>Python 2.0 was released on 16 October 2000 with many major new features, including a&nbsp;<a title="Cycle detection" href="https://en.wikipedia.org/wiki/Cycle_detection">cycle-detecting</a>&nbsp;<a title="Garbage collection (computer science)" href="https://en.wikipedia.org/wiki/Garbage_collection_(computer_science)">garbage collector</a>&nbsp;and support for&nbsp;<a title="Unicode" href="https://en.wikipedia.org/wiki/Unicode">Unicode</a>.</p>
