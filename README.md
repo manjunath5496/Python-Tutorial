@@ -4,7 +4,101 @@
 <p>The Python&nbsp;2 language, i.e. Python 2.7.x, was officially discontinued on 1 January 2020 (first planned for 2015) after which security patches and other improvements will not be released for it.&nbsp;With Python 2's&nbsp;<a title="End-of-life (product)" href="https://en.wikipedia.org/wiki/End-of-life_(product)">end-of-life</a>, only Python&nbsp;3.5.x&nbsp;and later are supported.</p>
 <p>Python&nbsp;<a title="Interpreter (computing)" href="https://en.wikipedia.org/wiki/Interpreter_(computing)">interpreters</a>&nbsp;are available for many&nbsp;<a title="Operating system" href="https://en.wikipedia.org/wiki/Operating_system">operating systems</a>. A global community of programmers develops and maintains&nbsp;<a title="CPython" href="https://en.wikipedia.org/wiki/CPython">CPython</a>, an&nbsp;<a title="Open-source software" href="https://en.wikipedia.org/wiki/Open-source_software">open source</a>&nbsp;<a title="Reference implementation" href="https://en.wikipedia.org/wiki/Reference_implementation">reference implementation</a>. A&nbsp;<a title="Nonprofit organization" href="https://en.wikipedia.org/wiki/Nonprofit_organization">non-profit organization</a>, the&nbsp;<a title="Python Software Foundation" href="https://en.wikipedia.org/wiki/Python_Software_Foundation">Python Software Foundation</a>, manages and directs resources for Python and CPython development.</p>
 
+</br>
 
+<table class="infobox vevent">
+<tbody>
+<tr>
+<td colspan="2"><a class="image" href="Python_logo.png"><img src="Python_logo.png" srcset="Python_logo.png" alt="Python logo and wordmark.svg" width="250" height="74" data-file-width="486" data-file-height="144" /></a></td>
+</tr>
+<tr>
+<th scope="row"><a title="" href="https://en.wikipedia.org/wiki/Programming_paradigm">Paradigm</a></th>
+<td><a class="mw-redirect" title="Multi-paradigm programming language" href="https://en.wikipedia.org/wiki/Multi-paradigm_programming_language">Multi-paradigm</a>:&nbsp;<a title="Functional programming" href="https://en.wikipedia.org/wiki/Functional_programming">functional</a>,&nbsp;<a title="Imperative programming" href="https://en.wikipedia.org/wiki/Imperative_programming">imperative</a>,&nbsp;<a title="Object-oriented programming" href="https://en.wikipedia.org/wiki/Object-oriented_programming">object-oriented</a>,&nbsp;<a class="mw-redirect" title="Reflective programming" href="https://en.wikipedia.org/wiki/Reflective_programming">reflective</a></td>
+</tr>
+<tr>
+<th scope="row"><a title="Software design" href="https://en.wikipedia.org/wiki/Software_design">Designed&nbsp;by</a></th>
+<td><a title="Guido van Rossum" href="https://en.wikipedia.org/wiki/Guido_van_Rossum">Guido van Rossum</a></td>
+</tr>
+<tr>
+<th scope="row"><a class="mw-redirect" title="Software developer" href="https://en.wikipedia.org/wiki/Software_developer">Developer</a></th>
+<td class="organiser"><a title="Python Software Foundation" href="https://en.wikipedia.org/wiki/Python_Software_Foundation">Python Software Foundation</a></td>
+</tr>
+<tr>
+<th scope="row">First&nbsp;appeared</th>
+<td>1990<span class="noprint">; 30&nbsp;years ago</span></td>
+</tr>
+<tr>
+<td colspan="2">&nbsp;</td>
+</tr>
+<tr>
+<th scope="row"><a title="Software release life cycle" href="https://en.wikipedia.org/wiki/Software_release_life_cycle">Stable release</a></th>
+<td>
+<div>3.8.2 / 24&nbsp;February 2020<span class="noprint">; 11 days ago</span></div>
+</td>
+</tr>
+<tr>
+<th scope="row"><a title="Software release life cycle" href="https://en.wikipedia.org/wiki/Software_release_life_cycle">Preview release</a></th>
+<td>
+<div>3.9.0a4 / 26&nbsp;February 2020<span class="noprint">; 9 days ago</span></div>
+</td>
+</tr>
+<tr>
+<th scope="row"><a title="Type system" href="https://en.wikipedia.org/wiki/Type_system">Typing discipline</a></th>
+<td><a title="Duck typing" href="https://en.wikipedia.org/wiki/Duck_typing">Duck</a>,&nbsp;<a class="mw-redirect" title="Dynamic typing" href="https://en.wikipedia.org/wiki/Dynamic_typing">dynamic</a>,&nbsp;<a title="Gradual typing" href="https://en.wikipedia.org/wiki/Gradual_typing">gradual</a>&nbsp;(since 3.5)</td>
+</tr>
+<tr>
+<th scope="row"><a title="Software license" href="https://en.wikipedia.org/wiki/Software_license">License</a></th>
+<td><a title="Python Software Foundation License" href="https://en.wikipedia.org/wiki/Python_Software_Foundation_License">Python Software Foundation License</a></td>
+</tr>
+<tr>
+<th scope="row"><a title="Filename extension" href="https://en.wikipedia.org/wiki/Filename_extension">Filename extensions</a></th>
+<td>.py, .pyi, .pyc, .pyd, .pyo (prior to 3.5),&nbsp;.pyw, .pyz (since 3.5)</td>
+</tr>
+<tr>
+<th scope="row">Website</th>
+<td><span class="url"><a class="external text" href="https://www.python.org/" rel="nofollow">www<wbr />.python<wbr />.org</a></span></td>
+</tr>
+<tr>
+<th colspan="2">Major&nbsp;<a title="Programming language implementation" href="https://en.wikipedia.org/wiki/Programming_language_implementation">implementations</a></th>
+</tr>
+<tr>
+<td colspan="2"><a title="CPython" href="https://en.wikipedia.org/wiki/CPython">CPython</a>,&nbsp;<a title="PyPy" href="https://en.wikipedia.org/wiki/PyPy">PyPy</a>,&nbsp;<a title="Stackless Python" href="https://en.wikipedia.org/wiki/Stackless_Python">Stackless Python</a>,&nbsp;<a title="MicroPython" href="https://en.wikipedia.org/wiki/MicroPython">MicroPython</a>,&nbsp;<a title="CircuitPython" href="https://en.wikipedia.org/wiki/CircuitPython">CircuitPython</a>,&nbsp;<a title="IronPython" href="https://en.wikipedia.org/wiki/IronPython">IronPython</a>,&nbsp;<a title="Jython" href="https://en.wikipedia.org/wiki/Jython">Jython</a>,&nbsp;<a class="new" title="RustPython (page does not exist)" href="https://en.wikipedia.org/w/index.php?title=RustPython&amp;action=edit&amp;redlink=1">RustPython</a></td>
+</tr>
+<tr>
+<th colspan="2"><a title="Programming language" href="https://en.wikipedia.org/wiki/Programming_language#Dialects,_flavors_and_implementations">Dialects</a></th>
+</tr>
+<tr>
+<td colspan="2"><a title="Cython" href="https://en.wikipedia.org/wiki/Cython">Cython</a>,&nbsp;<a class="mw-redirect" title="RPython" href="https://en.wikipedia.org/wiki/RPython">RPython</a>,&nbsp;<a title="Bazel (software)" href="https://en.wikipedia.org/wiki/Bazel_(software)">Starlark</a></td>
+</tr>
+<tr>
+<th colspan="2">Influenced by</th>
+</tr>
+<tr>
+<td colspan="2">
+<p><a title="ABC (programming language)" href="https://en.wikipedia.org/wiki/ABC_(programming_language)">ABC</a>,&nbsp;<a title="Ada (programming language)" href="https://en.wikipedia.org/wiki/Ada_(programming_language)">Ada</a>,&nbsp;<a title="ALGOL 68" href="https://en.wikipedia.org/wiki/ALGOL_68">ALGOL 68</a>,<span style="font-size: xx-small;">&nbsp;</span><a title="APL (programming language)" href="https://en.wikipedia.org/wiki/APL_(programming_language)">APL</a>,&nbsp;<a title="C (programming language)" href="https://en.wikipedia.org/wiki/C_(programming_language)">C</a>,&nbsp;<a title="C++" href="https://en.wikipedia.org/wiki/C%2B%2B">C++</a>,&nbsp;<a title="CLU (programming language)" href="https://en.wikipedia.org/wiki/CLU_(programming_language)">CLU</a>,&nbsp;<a title="Dylan (programming language)" href="https://en.wikipedia.org/wiki/Dylan_(programming_language)">Dylan</a>,&nbsp;<a title="Haskell (programming language)" href="https://en.wikipedia.org/wiki/Haskell_(programming_language)">Haskell</a>,&nbsp;<a title="Icon (programming language)" href="https://en.wikipedia.org/wiki/Icon_(programming_language)">Icon</a>,&nbsp;<a title="Java (programming language)" href="https://en.wikipedia.org/wiki/Java_(programming_language)">Java</a>,&nbsp;<a title="Lisp (programming language)" href="https://en.wikipedia.org/wiki/Lisp_(programming_language)">Lisp</a>,</p>
+<p>&nbsp;<a title="Modula-3" href="https://en.wikipedia.org/wiki/Modula-3">Modula-3</a>,&nbsp;<a title="Perl" href="https://en.wikipedia.org/wiki/Perl">Perl</a>,&nbsp;<a title="Standard ML" href="https://en.wikipedia.org/wiki/Standard_ML">Standard ML</a></p>
+</td>
+</tr>
+<tr>
+<th colspan="2">Influenced</th>
+</tr>
+<tr>
+<td colspan="2">
+<p><a title="Apache Groovy" href="https://en.wikipedia.org/wiki/Apache_Groovy">Apache Groovy</a>,&nbsp;<a title="Boo (programming language)" href="https://en.wikipedia.org/wiki/Boo_(programming_language)">Boo</a>,&nbsp;<a title="Cobra (programming language)" href="https://en.wikipedia.org/wiki/Cobra_(programming_language)">Cobra</a>,&nbsp;<a title="CoffeeScript" href="https://en.wikipedia.org/wiki/CoffeeScript">CoffeeScript</a>,&nbsp;<a title="D (programming language)" href="https://en.wikipedia.org/wiki/D_(programming_language)">D</a>,&nbsp;<a title="F Sharp (programming language)" href="https://en.wikipedia.org/wiki/F_Sharp_(programming_language)">F#</a>,&nbsp;<a title="Genie (programming language)" href="https://en.wikipedia.org/wiki/Genie_(programming_language)">Genie</a>,&nbsp;<a title="Go (programming language)" href="https://en.wikipedia.org/wiki/Go_(programming_language)">Go</a>,&nbsp;<a title="JavaScript" href="https://en.wikipedia.org/wiki/JavaScript">JavaScript</a>,</p>
+<p>&nbsp;<a title="Julia (programming language)" href="https://en.wikipedia.org/wiki/Julia_(programming_language)">Julia</a>,&nbsp;<a title="Nim (programming language)" href="https://en.wikipedia.org/wiki/Nim_(programming_language)">Nim</a>, Ring,&nbsp;<a title="Ruby (programming language)" href="https://en.wikipedia.org/wiki/Ruby_(programming_language)">Ruby</a>,&nbsp;<a title="Swift (programming language)" href="https://en.wikipedia.org/wiki/Swift_(programming_language)">Swift</a></p>
+</td>
+</tr>
+<tr>
+<td class="hlist" colspan="2">
+<p><a class="image" href="logo.png"><img class="noviewer" src="logo.png" srcset="logo.png" alt="" width="16" height="16" data-file-width="400" data-file-height="400" /></a>&nbsp;<a class="extiw" title="wikibooks:Python Programming" href="https://en.wikibooks.org/wiki/Python_Programming">Python Programming</a>&nbsp;at Wikibooks</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+
+
+</br>
 <div class="toctitle" dir="ltr" lang="en"></div>
 <h2>Contents</h2>
 <label class="toctogglelabel" for="toctogglecheckbox"></label></div>
