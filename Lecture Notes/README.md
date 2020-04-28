@@ -73,6 +73,82 @@
 </br>
 <h2>Assignments: programming (no examples) </h2>
 
-
+<table class="tablewidth" summary="See table caption for summary.">
+<thead>
+<tr>
+<th scope="col">ASSN&nbsp;#</th>
+<th scope="col">ASSIGNMENTS</th>
+<th scope="col">SUPPORTING&nbsp;FILES</th>
+</tr>
+</thead>
+<tbody>
+<tr class="row">
+<td>Homework 1</td>
+<td>Handout (<a href="MIT6_189IAP11_hw1.pdf" data-smd-id="s107">PDF</a>)
+<p><span class="nobr">Written exercises (<a href="MIT6_189IAP11_hw1_written.pdf" data-smd-id="s108">PDF</a>)</span></p>
+</td>
+<td>Code template (<a href="hw1.py" data-smd-id="s109">PY</a>)</td>
+</tr>
+<tr class="alt-row">
+<td>Homework 2</td>
+<td>Handout (<a href="MIT6_189IAP11_hw2.pdf" data-smd-id="s110">PDF</a>)
+<p>Written exercises (<a href="MIT6_189IAP11_hw2_written.pdf" data-smd-id="s111">PDF</a>)</p>
+</td>
+<td>
+<p>Code template (<a href="hw2.py" data-smd-id="s112">PY</a>)</p>
+<p>nims.py (<a href="nims.py" data-smd-id="s113">PY</a>)</p>
+<p>strings_and_lists.py (<a href="strings_and_lists.py" data-smd-id="s114">PY</a>)</p>
+</td>
+</tr>
+<tr class="row">
+<td>Project 1: Hangman</td>
+<td>Handout (<a href="MIT6_189IAP11_project1.pdf" data-smd-id="s115">PDF</a>)</td>
+<td>
+<p>hangman_template.py (<a href="hangman_template.py" data-smd-id="s116">PY</a>)</p>
+<p>words.txt (<a href="words.txt" data-smd-id="s117">TXT</a>)</p>
+<p>Optional extension:</p>
+<p>hangman_lib.py (<a href="hangman_lib.py" data-smd-id="s118">PY</a>)</p>
+<p>hangman_lib_demo.py (<a href="hangman_lib_demo.py" data-smd-id="s119">PY</a>)</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Homework 3</td>
+<td>Handout (<a href="MIT6_189IAP11_hw3.pdf" data-smd-id="s120">PDF</a>)
+<p>Written exercises (<a href="MIT6_189IAP11_hw3_written.pdf" data-smd-id="s121">PDF</a>)</p>
+</td>
+<td>Code template (<a href="hw3.py" data-smd-id="s122">PY</a>)</td>
+</tr>
+<tr class="row">
+<td>Homework 4</td>
+<td>Handout (<a href="MIT6_189IAP11_hw4.pdf" data-smd-id="s123">PDF</a>)
+<p>Written exercises (<a href="MIT6_189IAP11_hw4_written.pdf" data-smd-id="s124">PDF</a>)</p>
+</td>
+<td>
+<p>Graphics module documentation (<a href="MIT6_189IAP11_graphics.pdf" data-smd-id="s125">PDF</a>)</p>
+<p>graphics.py (<a href="graphics.py" data-smd-id="s126">PY</a>) &mdash; be sure to save this in the same directory where your code is saved!</p>
+<p>wheel.py (<a href="wheel.py" data-smd-id="s127">PY</a>)</p>
+<p>rgb.txt (<a href="rgb.txt" data-smd-id="s128">TXT</a>)</p>
+<p>The graphics.py package and documentation are courtesy of John Zelle, and are used with permission.</p>
+</td>
+</tr>
+<tr class="alt-row">
+<td>Project 2: Conway's game of life</td>
+<td>Handout (<a href="MIT6_189IAP11_project2.pdf" data-smd-id="s129">PDF</a>)</td>
+<td>
+<p>game_of_life_template.py (<a href="game_of_life_template.py" data-smd-id="s130">PY</a>) &mdash; download and save as game_of_life.py; be sure to save in the same directory as graphics.py</p>
+</td>
+</tr>
+<tr class="row">
+<td>Final project: Tetris</td>
+<td>
+<p>Handout (<a href="MIT6_189IAP11_final_proj.pdf" data-smd-id="s131">PDF</a>)</p>
+</td>
+<td>
+<p>tetris_template.py (<a href="tetris_template.py" data-smd-id="s132">PY</a>) &mdash; Download and save it in the same directory as graphics.py. Please edit this file, and place your code in the sections that say "YOUR CODE HERE".</p>
+</td>
+</tr>
+</tbody>
+</table>
+</br>
 
 
