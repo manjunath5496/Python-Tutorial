@@ -1,3 +1,68 @@
+<p>The&nbsp;<a title="Syntax (programming languages)" href="https://en.wikipedia.org/wiki/Syntax_(programming_languages)">syntax</a>&nbsp;of the&nbsp;<a title="Python (programming language)" href="https://en.wikipedia.org/wiki/Python_(programming_language)">Python programming language</a>&nbsp;is the set of rules that defines how a Python program will be written and interpreted (by both the&nbsp;<a title="Runtime system" href="https://en.wikipedia.org/wiki/Runtime_system">runtime system</a>&nbsp;and by human readers). The Python language has many similarities to&nbsp;<a class="mw-redirect" title="Perl (programming language)" href="https://en.wikipedia.org/wiki/Perl_(programming_language)">Perl</a>,&nbsp;<a title="C (programming language)" href="https://en.wikipedia.org/wiki/C_(programming_language)">C</a>, and&nbsp;<a title="Java (programming language)" href="https://en.wikipedia.org/wiki/Java_(programming_language)">Java</a>. However, there are some definite differences between the languages.</p>
+</br>
+
+<div class="toctitle" dir="ltr" lang="en">
+<h2 id="mw-toc-heading">Contents</h2>
+<label class="toctogglelabel" for="toctogglecheckbox"></label></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Design_philosophy"><span class="toctext">Design philosophy</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Keywords"><span class="toctext">Keywords</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Indentation"><span class="toctext">Indentation</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Data_structures"><span class="toctext">Data structures</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#Base_types"><span class="toctext">Base types</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Collection_types"><span class="toctext">Collection types</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Object_system"><span class="toctext">Object system</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#Literals"><span class="toctext">Literals</span></a>
+<ul>
+<li class="toclevel-2 tocsection-9"><a href="#Strings"><span class="toctext">Strings</span></a>
+<ul>
+<li class="toclevel-3 tocsection-10"><a href="#Normal_string_literals"><span class="toctext">Normal string literals</span></a></li>
+<li class="toclevel-3 tocsection-11"><a href="#Multi-line_string_literals"><span class="toctext">Multi-line string literals</span></a></li>
+<li class="toclevel-3 tocsection-12"><a href="#Raw_strings"><span class="toctext">Raw strings</span></a></li>
+<li class="toclevel-3 tocsection-13"><a href="#Concatenation_of_adjacent_string_literals"><span class="toctext">Concatenation of adjacent string literals</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-14"><a href="#Numbers"><span class="toctext">Numbers</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="#Lists,_tuples,_sets,_dictionaries"><span class="toctext">Lists, tuples, sets, dictionaries</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-16"><a href="#Operators"><span class="toctext">Operators</span></a>
+<ul>
+<li class="toclevel-2 tocsection-17"><a href="#Arithmetic"><span class="toctext">Arithmetic</span></a></li>
+<li class="toclevel-2 tocsection-18"><a href="#Comparison_operators"><span class="toctext">Comparison operators</span></a></li>
+<li class="toclevel-2 tocsection-19"><a href="#Logical_operators"><span class="toctext">Logical operators</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-20"><a href="#Functional_programming"><span class="toctext">Functional programming</span></a>
+<ul>
+<li class="toclevel-2 tocsection-21"><a href="#Comprehensions"><span class="toctext">Comprehensions</span></a></li>
+<li class="toclevel-2 tocsection-22"><a href="#First-class_functions"><span class="toctext">First-class functions</span></a></li>
+<li class="toclevel-2 tocsection-23"><a href="#Closures"><span class="toctext">Closures</span></a></li>
+<li class="toclevel-2 tocsection-24"><a href="#Generators"><span class="toctext">Generators</span></a></li>
+<li class="toclevel-2 tocsection-25"><a href="#Generator_expressions"><span class="toctext">Generator expressions</span></a></li>
+<li class="toclevel-2 tocsection-26"><a href="#Dictionary_and_set_comprehensions"><span class="toctext">Dictionary and set comprehensions</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-27"><a href="#Objects"><span class="toctext">Objects</span></a>
+<ul>
+<li class="toclevel-2 tocsection-28"><a href="#With_statements"><span class="toctext">With statements</span></a></li>
+<li class="toclevel-2 tocsection-29"><a href="#Properties"><span class="toctext">Properties</span></a></li>
+<li class="toclevel-2 tocsection-30"><a href="#Descriptors"><span class="toctext">Descriptors</span></a></li>
+<li class="toclevel-2 tocsection-31"><a href="#Class_and_static_methods"><span class="toctext">Class and static methods</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-32"><a href="#Exceptions"><span class="toctext">Exceptions</span></a></li>
+<li class="toclevel-1 tocsection-33"><a href="#Comments_and_docstrings"><span class="toctext">Comments and docstrings</span></a></li>
+<li class="toclevel-1 tocsection-34"><a href="#Function_annotations"><span class="toctext">Function annotations</span></a></li>
+<li class="toclevel-1 tocsection-35"><a href="#Decorators"><span class="toctext">Decorators</span></a></li>
+<li class="toclevel-1 tocsection-36"><a href="#Easter_eggs"><span class="toctext">Easter eggs</span></a></li>
+</ul>
+
+
+
 <p>&nbsp;</p>
 <div id="toc" class="toc">&nbsp;</div>
 <h2><span id="Design_philosophy" class="mw-headline">Design philosophy</span></h2>
