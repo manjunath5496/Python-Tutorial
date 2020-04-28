@@ -414,18 +414,22 @@
 <h3><span id="Properties" class="mw-headline">Properties</span></h3>
 <p>Properties allow specially defined methods to be invoked on an object instance by using the same syntax as used for attribute access. An example of a class defining some properties is:</p>
 <div class="mw-highlight mw-highlight-lang-python mw-content-ltr" dir="ltr">
-<pre><span class="k">class</span> <span class="nc">MyClass</span><span class="p">:</span>
-    <span class="k">def</span> <span class="fm">__init__</span><span class="p">(</span><span class="bp">self</span><span class="p">):</span>
-        <span class="bp">self</span><span class="o">.</span><span class="n">_a</span> <span class="o">=</span> <span class="kc">None</span>
 
-    <span class="nd">@property</span>
-    <span class="k">def</span> <span class="nf">a</span><span class="p">(</span><span class="bp">self</span><span class="p">):</span>
-        <span class="k">return</span> <span class="bp">self</span><span class="o">.</span><span class="n">_a</span>
+```python language
+class MyClass:
+    def __init__(self):
+        self._a = None
 
-    <span class="nd">@a</span><span class="o">.</span><span class="n">setter</span>  <span class="c1"># makes the property writable</span>
-    <span class="k">def</span> <span class="nf">a</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">value</span><span class="p">):</span>
-        <span class="bp">self</span><span class="o">.</span><span class="n">_a</span> <span class="o">=</span> <span class="n">value</span>
-</pre>
+    @property
+    def a(self):
+        return self._a
+
+    @a.setter  # makes the property writable
+    def a(self, value):
+        self._a = value
+
+```
+
 </div>
 <h3><span id="Descriptors" class="mw-headline">Descriptors</span></h3>
 <p>A class that defines one or more of the special methods&nbsp;<code>__get__(self, instance, owner)</code>,&nbsp;<code>__set__(self, instance, value)</code>,&nbsp;<code>__delete__(self, instance)</code>&nbsp;can be used as a descriptor. Creating an instance of a descriptor as a class member of a second class makes the instance a property of the second class.</p>
