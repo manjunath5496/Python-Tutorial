@@ -554,7 +554,8 @@ print(fact)
 
 <ul>
 <li><a href="https://manjunath5496.github.io/python-quiz/index.html">Python Quiz</a></li>
-<li><a href="https://www.youtube.com/results?search_query=Python+Tutorial">Python programming videos</a></li>	
+<li><a href="https://www.youtube.com/results?search_query=Python+Tutorial">Python programming videos</a></li>
+<li><a href="https://github.com/manjunath5496/Python-Tutorial/blob/master/Lecture%20Notes/README.md">MIT Lecture Notes</a></li>
 </ul>
 
 
