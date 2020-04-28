@@ -630,3 +630,11 @@ class MyClass:
 <p>Another hidden message, The Zen of Python (a summary of&nbsp;<a title="Python (programming language)" href="https://en.wikipedia.org/wiki/Python_(programming_language)#Features_and_philosophy">Python philosophy</a>), is displayed when trying to&nbsp;<code>import this</code>.</p>
 <p>The message&nbsp;<code>Hello world!</code>&nbsp;is printed when the import statement&nbsp;<code>import __hello__</code>&nbsp;is used. In Python 2.7, instead of&nbsp;<code>Hello world!</code>&nbsp;it prints&nbsp;<code>Hello world...</code>.</p>
 <p>An&nbsp;<code><a class="mw-redirect" title="Antigravity" href="https://en.wikipedia.org/wiki/Antigravity">antigravity</a></code>&nbsp;module was added to Python 2.7 and 3.0. Importing it opens a web browser to&nbsp;<a title="Xkcd" href="https://en.wikipedia.org/wiki/Xkcd">xkcd</a>&nbsp;comic&nbsp;<a class="external text" href="https://xkcd.com/353/" rel="nofollow">353</a>&nbsp;that portrays a humorous fictional use for such a module, intended to demonstrate the ease with which Python modules enable additional functionality.&nbsp;In Python 3.0, this module also contains an implementation of the "geohash" algorithm, a reference to&nbsp;<a title="Xkcd" href="https://en.wikipedia.org/wiki/Xkcd">xkcd</a>&nbsp;comic&nbsp;<a class="external text" href="https://xkcd.com/426/" rel="nofollow">426</a>.</p>
+</br>
+<ul>
+<li><a href="https://github.com/manjunath5496/Python-Tutorial/blob/master/Notes/pyk(18).pdf" rel="nofollow">Functional Programming in Python</a></li>
+<li><a href="https://github.com/manjunath5496/Python-Tutorial/blob/master/Notes/pyk(19).pdf" rel="nofollow">Only the Limits of Our Imagination: An exclusive interview with
+Grace M. Hopper</a></li>
+<li><a href="https://github.com/manjunath5496/Python-Tutorial/blob/master/Notes/pyk(20).pdf">The decorator module (old version)</a></li>
+</ul>
+</br>
