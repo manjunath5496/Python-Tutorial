@@ -61,10 +61,8 @@
 <li class="toclevel-1 tocsection-36"><a href="#Easter_eggs"><span class="toctext">Easter eggs</span></a></li>
 </ul>
 
-
-
 <p>&nbsp;</p>
-<div id="toc" class="toc">&nbsp;</div>
+
 <h2><span id="Design_philosophy" class="mw-headline">Design philosophy</span></h2>
 <p>Python was designed to be a highly readable language.&nbsp;It has a relatively uncluttered visual layout and uses English keywords frequently where other languages use punctuation. Python aims to be simple and consistent in the design of its syntax, encapsulated in the mantra "There should be one&mdash;and preferably only one&mdash;obvious way to do it", from "<a class="mw-redirect" title="The Zen of Python" href="https://en.wikipedia.org/wiki/The_Zen_of_Python">The Zen of Python</a>".</p>
 <p>This mantra is deliberately opposed to the&nbsp;<a title="Perl" href="https://en.wikipedia.org/wiki/Perl">Perl</a>&nbsp;and&nbsp;<a title="Ruby (programming language)" href="https://en.wikipedia.org/wiki/Ruby_(programming_language)">Ruby</a>&nbsp;mantra, "<a title="There's more than one way to do it" href="https://en.wikipedia.org/wiki/There%27s_more_than_one_way_to_do_it">there's more than one way to do it</a>".</p>
