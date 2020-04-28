@@ -552,7 +552,16 @@ print(fact)
 <p>Python's development practices have also been emulated by other languages. For example, the practice of requiring a document describing the rationale for, and issues surrounding, a change to the language (in Python, a PEP) is also used in&nbsp;<a title="Tcl" href="https://en.wikipedia.org/wiki/Tcl">Tcl</a>&nbsp;and&nbsp;<a title="Erlang (programming language)" href="https://en.wikipedia.org/wiki/Erlang_(programming_language)">Erlang</a>.</p>
 </br>
 
+<ul>
+<li><a href="https://manjunath5496.github.io/python-quiz/index.html">Python Quiz</a></li>
+<li><a href="https://www.youtube.com/results?search_query=Python+Tutorial">Python programming videos</a></li>	
+</ul>
+
+
+</br>
+
 <h2 id="Beginner Python Exercises"> Beginner Python Exercises</h2>
+
 # Question 1
 
 ### **Question:**
